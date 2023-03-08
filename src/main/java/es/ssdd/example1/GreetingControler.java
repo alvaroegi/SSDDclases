@@ -45,6 +45,7 @@ public class GreetingControler {
 
     }
 
+    //EJERCICIO 1
     //puedo crear distintos controladores para esto, aunque este hecho todo aqui
     //postmapping para poder usar un post en el form
     @PostMapping("/formulario")
